@@ -1,0 +1,19 @@
+# Flutter/Dart specific files
+.dart_tool/
+.packages
+.pub-cache/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/FlutterPluginRegistrant.podspec
+ios/Pods/
+android/.gradle/
+android/app/build/
+android/app/intermediates/
+android/app/outputs/
+*.iml
+*.lock
+*.log
+*.swp
+*.swo
+*.DS_Store
