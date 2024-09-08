@@ -2,7 +2,7 @@ name: flutter_modified_toast
 description: "A customizable toast message package for Flutter."
 version: 1.0.0
 homepage: https://github.com/yashrajjain726/flutter_modified_toast
-publish_to: "none"
+
 environment:
   sdk: ">=3.3.4 <4.0.0"
   flutter: ">=1.17.0"
